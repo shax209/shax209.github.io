@@ -1,45 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Shakh Jalilov",
+    "occupation": "Front End Developer",
+    "description": "I specialize in creating responsive, scalable web applications.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Shakh Jalilov, a Front End Developer with several years of industry experience. I am passionate about building and optimizing user-focused websites for continuous improvement and deployment. My expertise includes HTML, CSS, JavaScript, React, and other modern frameworks. I've successfully launched projects, consistently optimized performance, and collaborated with cross-functional teams to deliver innovative solutions.",
+    "contactmessage": "Feel free to reach out for collaboration or inquiries!",
+    "email": "jalilovshakhzodkhon@gmail.com",
+    "phone": "+9728370617",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Plano",
+      "city": "Texas",
+      "state": "TX",
+      "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://shakhjalilov.me/",
+    "resumedownload": "/resume.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/shakhjalilov/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Shax209",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +33,30 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Tashkent State Technical University",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "2018 - 2023",
+        "description": "Focused on developing strong programming and software development skills with a focus on modern web technologies."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Vericast",
+        "title": "Front End Developer",
+        "years": "July 2022 - Present",
+        "description": "Developed new user-facing features, collaborated with the design team, and optimized applications for speed and scalability."
+      },
+      {
+        "company": "AgilePro CRM",
+        "title": "Front End Developer",
+        "years": "April 2021 - May 2022",
+        "description": "Collaborated on migrating the legacy company website to modern technologies, translated design team's UX wireframes into responsive features, and optimized the front-end performance."
+      },
+      {
+        "company": "ClientStrive",
+        "title": "Front End Developer",
+        "years": "July 2019 - April 2021",
+        "description": "Led the development of a platform from scratch, incorporated features like real-time contract signing, video broadcasting, and admin panel development."
       }
     ],
     "skills": [
@@ -68,54 +65,62 @@
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
         "name": "JavaScript",
         "level": "99%"
       },
       {
-        "name": "Web Development",
+        "name": "NextJS",
         "level": "95%"
+      },
+      {
+        "name": "Node JS",
+        "level": "85%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Tailwind",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Logistics Website with MongoDB and Telegram API Integration",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "/images/delo.png",
+        "url": "https://delotransinc.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Google Docs Clone with Authintication and Realtime Database",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "/images/googleDoc.png",
+        "url": "https://react-word-xi.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Space Hookah Website with Next JS and Tailwind CSS",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "/images/spacehookah.png",
+        "url": "https://www.spacehookahdfw.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Shakh's dedication to optimizing our platform was incredible. His solutions greatly improved user experience.",
+        "user": "ClientStrive"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Shakh’s expertise in front-end development ensured that our migration was a success, and the new design was a hit with users.",
+        "user": "AgilePro CRM"
       }
     ]
   }
