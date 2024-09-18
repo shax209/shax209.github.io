@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Shakh Jalilov",
+    "occupation": "Front End Developer",
+    "description": "I specialize in creating responsive, scalable web applications.",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Shakh Jalilov, a Front End Developer with several years of industry experience. I am passionate about building and optimizing user-focused websites for continuous improvement and deployment. My expertise includes HTML, CSS, JavaScript, React, and other modern frameworks. I've successfully launched projects, consistently optimized performance, and collaborated with cross-functional teams to deliver innovative solutions.",
+    "contactmessage": "Feel free to reach out for collaboration or inquiries!",
+    "email": "jalilovshakhzodkhon@gmail.com",
+    "phone": "+9728370617",
+    "address": {
+      "street": "Plano",
+      "city": "Texas",
+      "state": "TX",
+      "zip": ""
+    },
+    "website": "https://shakhjalilov.me/",
+    "resumedownload": "/resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shakhjalilov/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Shax209",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Tashkent State Technical University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2018 - 2023",
+        "description": "Focused on developing strong programming and software development skills with a focus on modern web technologies."
+      }
+    ],
+    "work": [
+      {
+        "company": "Vericast",
+        "title": "Front End Developer",
+        "years": "July 2022 - Present",
+        "description": "Developed new user-facing features, collaborated with the design team, and optimized applications for speed and scalability."
+      },
+      {
+        "company": "AgilePro CRM",
+        "title": "Front End Developer",
+        "years": "April 2021 - May 2022",
+        "description": "Collaborated on migrating the legacy company website to modern technologies, translated design team's UX wireframes into responsive features, and optimized the front-end performance."
+      },
+      {
+        "company": "ClientStrive",
+        "title": "Front End Developer",
+        "years": "July 2019 - April 2021",
+        "description": "Led the development of a platform from scratch, incorporated features like real-time contract signing, video broadcasting, and admin panel development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "NextJS",
+        "level": "95%"
+      },
+      {
+        "name": "Node JS",
+        "level": "85%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Tailwind",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Logistics Website with MongoDB and Telegram API Integration",
+        "category": "",
+        "image": "/images/delo.png",
+        "url": "https://delotransinc.com/"
+      },
+      {
+        "title": "Google Docs Clone with Authintication and Realtime Database",
+        "category": "",
+        "image": "/images/googleDoc.png",
+        "url": "https://react-word-xi.vercel.app/"
+      },
+      {
+        "title": "Space Hookah Website with Next JS and Tailwind CSS",
+        "category": "",
+        "image": "/images/spacehookah.png",
+        "url": "https://www.spacehookahdfw.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shakh's dedication to optimizing our platform was incredible. His solutions greatly improved user experience.",
+        "user": "ClientStrive"
+      },
+      {
+        "text": "Shakh’s expertise in front-end development ensured that our migration was a success, and the new design was a hit with users.",
+        "user": "AgilePro CRM"
+      }
+    ]
+  }
+}
