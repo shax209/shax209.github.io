@@ -109,7 +109,13 @@
         "category": "",
         "image": "/images/spacehookah.png",
         "url": "https://www.spacehookahdfw.com/"
-      }
+      },
+      {
+        "title": "Wheels DFW Ecommerce Shop",
+        "category": "",
+        "image": "/images/sanity.png",
+        "url": "https://sanity-stripy.vercel.app/"
+      },
     ]
   },
   "testimonials": {
