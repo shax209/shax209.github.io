@@ -116,6 +116,13 @@
         "image": "/images/sanity.png",
         "url": "https://sanity-stripy.vercel.app/"
       },
+      {
+        "title": "Chat App with AI ",
+        "category": "",
+        "image": "/images/ai.png",
+        "url": "https://chat-with-pdf-delta-olive.vercel.app/"
+      }
+
     ]
   },
   "testimonials": {
